@@ -1,0 +1,287 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs",
+          "editUrlLocalized": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\sidebars.js",
+          "contentPath": "C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\docs",
+          "contentPathLocalized": "C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "capstone/index",
+              "title": "Capstone: Autonomous Humanoid (Conceptual Flow)",
+              "description": "Bringing It All Together",
+              "source": "@site/docs/capstone/index.md",
+              "sourceDirName": "capstone",
+              "slug": "/capstone/",
+              "permalink": "/docs/capstone/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/capstone/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 4: Vision-Language-Action (VLA)",
+                "permalink": "/docs/module4/"
+              },
+              "next": {
+                "title": "Conclusion: Learning Summary and Future Directions",
+                "permalink": "/docs/conclusion/"
+              }
+            },
+            {
+              "id": "conclusion/index",
+              "title": "Conclusion: Learning Summary and Future Directions",
+              "description": "Synthesis of Key Concepts",
+              "source": "@site/docs/conclusion/index.md",
+              "sourceDirName": "conclusion",
+              "slug": "/conclusion/",
+              "permalink": "/docs/conclusion/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/conclusion/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Capstone: Autonomous Humanoid (Conceptual Flow)",
+                "permalink": "/docs/capstone/"
+              }
+            },
+            {
+              "id": "intro/index",
+              "title": "Introduction: Physical AI & Embodied Intelligence",
+              "description": "Welcome to the Era of Embodied AI",
+              "source": "@site/docs/intro/index.md",
+              "sourceDirName": "intro",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/intro/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/docs/module1/"
+              }
+            },
+            {
+              "id": "module1/index",
+              "title": "Module 1: The Robotic Nervous System (ROS 2)",
+              "description": "Introduction to ROS 2",
+              "source": "@site/docs/module1/index.md",
+              "sourceDirName": "module1",
+              "slug": "/module1/",
+              "permalink": "/docs/module1/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/module1/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction: Physical AI & Embodied Intelligence",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "permalink": "/docs/module2/"
+              }
+            },
+            {
+              "id": "module2/index",
+              "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+              "description": "Introduction to Digital Twins in Robotics",
+              "source": "@site/docs/module2/index.md",
+              "sourceDirName": "module2",
+              "slug": "/module2/",
+              "permalink": "/docs/module2/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/module2/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1: The Robotic Nervous System (ROS 2)",
+                "permalink": "/docs/module1/"
+              },
+              "next": {
+                "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "permalink": "/docs/module3/"
+              }
+            },
+            {
+              "id": "module3/index",
+              "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+              "description": "Introduction to NVIDIA Isaac",
+              "source": "@site/docs/module3/index.md",
+              "sourceDirName": "module3",
+              "slug": "/module3/",
+              "permalink": "/docs/module3/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/module3/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "permalink": "/docs/module2/"
+              },
+              "next": {
+                "title": "Module 4: Vision-Language-Action (VLA)",
+                "permalink": "/docs/module4/"
+              }
+            },
+            {
+              "id": "module4/index",
+              "title": "Module 4: Vision-Language-Action (VLA)",
+              "description": "Introduction to Vision-Language-Action AI",
+              "source": "@site/docs/module4/index.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/",
+              "permalink": "/docs/module4/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/module4/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "permalink": "/docs/module3/"
+              },
+              "next": {
+                "title": "Capstone: Autonomous Humanoid (Conceptual Flow)",
+                "permalink": "/docs/capstone/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro/index"
+              },
+              {
+                "type": "category",
+                "label": "Module 1: The Robotic Nervous System (ROS 2)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module1/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module2/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module3/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Module 4: Vision-Language-Action (VLA)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module4/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Capstone: Autonomous Humanoid",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "capstone/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "conclusion/index"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

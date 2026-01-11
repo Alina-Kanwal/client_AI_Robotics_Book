@@ -1,0 +1,22 @@
+{
+  "id": "intro/index",
+  "title": "Introduction: Physical AI & Embodied Intelligence",
+  "description": "Welcome to the Era of Embodied AI",
+  "source": "@site/docs/intro/index.md",
+  "sourceDirName": "intro",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/intro/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/docs/module1/"
+  }
+}

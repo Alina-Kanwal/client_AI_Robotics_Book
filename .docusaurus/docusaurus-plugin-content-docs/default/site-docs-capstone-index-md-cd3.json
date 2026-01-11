@@ -1,0 +1,27 @@
+{
+  "id": "capstone/index",
+  "title": "Capstone: Autonomous Humanoid (Conceptual Flow)",
+  "description": "Bringing It All Together",
+  "source": "@site/docs/capstone/index.md",
+  "sourceDirName": "capstone",
+  "slug": "/capstone/",
+  "permalink": "/docs/capstone/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/capstone/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/module4/"
+  },
+  "next": {
+    "title": "Conclusion: Learning Summary and Future Directions",
+    "permalink": "/docs/conclusion/"
+  }
+}

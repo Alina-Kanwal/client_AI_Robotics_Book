@@ -1,0 +1,27 @@
+{
+  "id": "module2/index",
+  "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+  "description": "Introduction to Digital Twins in Robotics",
+  "source": "@site/docs/module2/index.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/",
+  "permalink": "/docs/module2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/module2/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/docs/module1/"
+  },
+  "next": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+    "permalink": "/docs/module3/"
+  }
+}

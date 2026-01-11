@@ -1,0 +1,23 @@
+{
+  "id": "conclusion/index",
+  "title": "Conclusion: Learning Summary and Future Directions",
+  "description": "Synthesis of Key Concepts",
+  "source": "@site/docs/conclusion/index.md",
+  "sourceDirName": "conclusion",
+  "slug": "/conclusion/",
+  "permalink": "/docs/conclusion/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/conclusion/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone: Autonomous Humanoid (Conceptual Flow)",
+    "permalink": "/docs/capstone/"
+  }
+}

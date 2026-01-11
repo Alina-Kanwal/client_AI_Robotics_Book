@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Home",
+  "description": "Welcome to the Physical AI & Humanoid Robotics textbook. This comprehensive guide explores the intersection of artificial intelligence and physical systems through the lens of embodied intelligence.",
+  "frontMatter": {
+    "title": "Home"
+  },
+  "unlisted": false
+}

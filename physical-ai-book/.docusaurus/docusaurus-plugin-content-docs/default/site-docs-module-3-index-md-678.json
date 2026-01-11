@@ -1,0 +1,27 @@
+{
+  "id": "module3/index",
+  "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac)",
+  "description": "Introduction to NVIDIA Isaac",
+  "source": "@site/docs/module3/index.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/",
+  "permalink": "/docs/module3/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/module3/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/docs/module2/"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/module4/"
+  }
+}
