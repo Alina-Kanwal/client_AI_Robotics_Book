@@ -63,6 +63,11 @@ export default [
     ]
   },
   {
+    path: '/',
+    component: ComponentCreator('/', '247'),
+    exact: true
+  },
+  {
     path: '*',
     component: ComponentCreator('*'),
   },

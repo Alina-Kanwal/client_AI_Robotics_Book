@@ -39,5 +39,12 @@
   "/docs/module4/-72b": {
     "__comp": "17896441",
     "content": "8ea278af"
+  },
+  "/-247": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "78551a23"
+    },
+    "config": "5e9f5e1a"
   }
 }

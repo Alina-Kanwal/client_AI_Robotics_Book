@@ -1,7 +1,9 @@
 export default {
   "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
   "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
+  "5e9f5e1a": [() => import(/* webpackChunkName: "5e9f5e1a" */ "@generated/docusaurus.config"), "@generated/docusaurus.config", require.resolveWeak("@generated/docusaurus.config")],
   "678c53c9": [() => import(/* webpackChunkName: "678c53c9" */ "@site/docs/module3/index.md"), "@site/docs/module3/index.md", require.resolveWeak("@site/docs/module3/index.md")],
+  "78551a23": [() => import(/* webpackChunkName: "78551a23" */ "C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\.docusaurus\\docusaurus-plugin-content-pages\\default\\plugin-route-context-module-100.json"), "C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\.docusaurus\\docusaurus-plugin-content-pages\\default\\plugin-route-context-module-100.json", require.resolveWeak("C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\.docusaurus\\docusaurus-plugin-content-pages\\default\\plugin-route-context-module-100.json")],
   "7a4fffdf": [() => import(/* webpackChunkName: "7a4fffdf" */ "@site/docs/intro/index.md"), "@site/docs/intro/index.md", require.resolveWeak("@site/docs/intro/index.md")],
   "8aabad21": [() => import(/* webpackChunkName: "8aabad21" */ "C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json"), "C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json", require.resolveWeak("C:\\Users\\a\\Desktop\\quarter_4\\waqr_book\\physical-ai-book\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json")],
   "8ea278af": [() => import(/* webpackChunkName: "8ea278af" */ "@site/docs/module4/index.md"), "@site/docs/module4/index.md", require.resolveWeak("@site/docs/module4/index.md")],
@@ -10,5 +12,6 @@ export default {
   "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
   "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],
   "afd2de7e": [() => import(/* webpackChunkName: "afd2de7e" */ "@site/docs/conclusion/index.md"), "@site/docs/conclusion/index.md", require.resolveWeak("@site/docs/conclusion/index.md")],
+  "c4f5d8e4": [() => import(/* webpackChunkName: "c4f5d8e4" */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
   "cd369fc1": [() => import(/* webpackChunkName: "cd369fc1" */ "@site/docs/capstone/index.md"), "@site/docs/capstone/index.md", require.resolveWeak("@site/docs/capstone/index.md")],
   "ce6df026": [() => import(/* webpackChunkName: "ce6df026" */ "@site/docs/module2/index.md"), "@site/docs/module2/index.md", require.resolveWeak("@site/docs/module2/index.md")],};
