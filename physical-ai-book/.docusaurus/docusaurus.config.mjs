@@ -13,6 +13,15 @@ export default {
   "projectName": "physical-ai-humanoid-robotics",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
+  "markdown": {
+    "format": "detect",
+    "mermaid": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    }
+  },
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -332,14 +341,5 @@ export default {
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    }
-  }
+  "noIndex": false
 };

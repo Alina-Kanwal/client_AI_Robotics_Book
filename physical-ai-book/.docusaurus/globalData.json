@@ -22,7 +22,7 @@
             },
             {
               "id": "intro/index",
-              "path": "/docs/",
+              "path": "/docs/intro/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -50,7 +50,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/",
+                "path": "/docs/intro/",
                 "label": "intro/index"
               }
             }

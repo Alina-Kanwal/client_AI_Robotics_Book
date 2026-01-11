@@ -1,86 +1,43 @@
 {
-  "/__docusaurus/debug-b03": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/docs-378": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-539-198"
+      "plugin": "8aabad21"
     }
   },
-  "/__docusaurus/debug/config-772": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-539-198"
-    }
+  "/docs-9fe": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
-  "/__docusaurus/debug/content-0ff": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-539-198"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-72e": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-539-198"
-    }
-  },
-  "/__docusaurus/debug/metadata-b66": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-539-198"
-    }
-  },
-  "/__docusaurus/debug/registry-42e": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-539-198"
-    }
-  },
-  "/__docusaurus/debug/routes-dd4": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-539-198"
-    }
-  },
-  "/docs-4bf": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docs-8-aa-902"
-    }
-  },
-  "/docs-d7e": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
-  },
-  "/docs-f28": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docs/-e52": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-7-a-4-e02"
+  "/docs-235": {
+    "__comp": "a94703ab"
   },
   "/docs/capstone/-fd4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-capstone-cd-3-ad1"
+    "__comp": "17896441",
+    "content": "cd369fc1"
   },
   "/docs/conclusion/-3e5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-conclusion-afd-cf7"
+    "__comp": "17896441",
+    "content": "afd2de7e"
+  },
+  "/docs/intro/-015": {
+    "__comp": "17896441",
+    "content": "7a4fffdf"
   },
   "/docs/module1/-998": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-97-d-a91"
+    "__comp": "17896441",
+    "content": "97d7b8a1"
   },
   "/docs/module2/-424": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-ce-6-903"
+    "__comp": "17896441",
+    "content": "ce6df026"
   },
   "/docs/module3/-214": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-3-678-2be"
+    "__comp": "17896441",
+    "content": "678c53c9"
   },
   "/docs/module4/-72b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-4-8-ea-11f"
+    "__comp": "17896441",
+    "content": "8ea278af"
   }
 }

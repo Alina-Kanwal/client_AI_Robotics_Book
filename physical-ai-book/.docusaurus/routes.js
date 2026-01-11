@@ -3,58 +3,17 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'b03'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '772'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '0ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '72e'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'b66'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '42e'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'dd4'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', '4bf'),
+    component: ComponentCreator('/docs', '378'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd7e'),
+        component: ComponentCreator('/docs', '9fe'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f28'),
+            component: ComponentCreator('/docs', '235'),
             routes: [
-              {
-                path: '/docs/',
-                component: ComponentCreator('/docs/', 'e52'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/docs/capstone/',
                 component: ComponentCreator('/docs/capstone/', 'fd4'),
@@ -64,6 +23,12 @@ export default [
               {
                 path: '/docs/conclusion/',
                 component: ComponentCreator('/docs/conclusion/', '3e5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/intro/',
+                component: ComponentCreator('/docs/intro/', '015'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

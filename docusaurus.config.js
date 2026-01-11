@@ -18,7 +18,13 @@ const config = {
   projectName: 'physical-ai-humanoid-robotics', // Usually your repo name.
 
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    format: 'detect',
+    mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is served in Chinese, you
