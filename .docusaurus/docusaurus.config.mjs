@@ -7,11 +7,20 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "Connecting Digital Intelligence with Embodied Systems",
   "favicon": "img/favicon.ico",
-  "url": "https://physical-ai-humanoid.vercel.app",
+  "url": "https://your-vercel-project-name.vercel.app",
   "baseUrl": "/",
   "organizationName": "your-username",
   "projectName": "physical-ai-humanoid-robotics",
   "onBrokenLinks": "warn",
+  "markdown": {
+    "format": "detect",
+    "mermaid": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    }
+  },
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -332,14 +341,5 @@ export default {
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    }
-  }
+  "noIndex": false
 };
