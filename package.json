@@ -6,6 +6,6 @@
     "dev": "cd website && npm install && npm run start"
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=24.0"
   }
 }
