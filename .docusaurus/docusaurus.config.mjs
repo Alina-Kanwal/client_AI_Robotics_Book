@@ -7,7 +7,7 @@ export default {
   "title": "Physical AI & Humanoid Robotics",
   "tagline": "Connecting Digital Intelligence with Embodied Systems",
   "favicon": "img/favicon.ico",
-  "url": "https://your-vercel-project-name.vercel.app",
+  "url": "https://your-domain.vercel.app",
   "baseUrl": "/",
   "organizationName": "your-username",
   "projectName": "physical-ai-humanoid-robotics",

@@ -18,5 +18,6 @@
       "destination": "/index.html"
     }
   ],
+  "buildCommand": "npm install && npx docusaurus build",
   "outputDirectory": "build"
 }
