@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
  "scripts": {
-  "build": "node node_modules/@docusaurus/core/bin/docusaurus.mjs build"
+  "build": "node node_modules/@docusaurus/core/bin/docusaurus.mjs build",
+  "start": "node node_modules/@docusaurus/core/bin/docusaurus.mjs start"
 },
 
   "dependencies": {
