@@ -2,7 +2,7 @@
   "name": "physical-ai-book-root",
   "version": "1.0.0",
   "scripts": {
-    "build": "bash build.sh",
+    "build": "cd website && npm install && npm run build",
     "dev": "cd website && npm install && npm run start"
   },
   "engines": {
