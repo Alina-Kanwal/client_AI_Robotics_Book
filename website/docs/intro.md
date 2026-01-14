@@ -1,6 +1,3 @@
----
-slug: /
----
 
 # Welcome to the AI-Spec Driven Book
 
