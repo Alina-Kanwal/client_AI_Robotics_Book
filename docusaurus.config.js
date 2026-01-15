@@ -7,7 +7,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-domain.vercel.app', // Vercel will automatically set this during deployment
+  url: 'https://client-ai-robotics-book.vercel.app', // Updated to match your deployed domain
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/',
+            'https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docs/',
         },
         blog: false,
         theme: {
